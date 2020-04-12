@@ -10,6 +10,9 @@
 - GradientMap
 - Grayscale
 - Invert
+- Lerp
+- NaturalLerp
+- LumaContrast
 
 ## Resources
 
