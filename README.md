@@ -13,6 +13,7 @@
 - Lerp
 - NaturalLerp
 - LumaContrast
+- Colorize
 
 ## Resources
 
